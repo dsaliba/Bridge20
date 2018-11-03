@@ -38,7 +38,7 @@ This section will deal with how to fill out the settings.JSON file once you have
 * settings
   - printFullRoll
     - Either "yes" or "no", if yes rolls will display with the individual value of each roll under them
-* players *Note this is an array , player objects can be added an removed to your desire*
+* players *Note this is an array , player objects can be added an removed to your desire* (This step is optional, at the moment the only reason for it is to make /whisper commands dm the player
   - discord
     - The discord ID of the player (Information on how to find this is [here](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
   - rollName
