@@ -20,29 +20,29 @@ This program ***requires*** the ability to add an api to your campaign
 ### Part 2 Configuring settings
 This section will deal with how to fill out the settings.JSON file once you have downloaded the repo
 
--roll20
-  -email
-    -Change this field to be the email tied to a roll 20 acount with gm acces to the campaign
-  -password
-    -Password coresponding to the aformentioned email
--game
-  -apiLink
-    -The URL of the api menu for your campaign
-  -campaignHome
-    -The URL to the campaign menu (note this is not in use as of now)
--discord
-  -token
-    -Your discord bots token (found in part 1)
-  -channel
-    -The name of the discord channel you want to be the bridge
--settings
-  -printFullRoll
-    -Either "yes" or "no", if yes rolls will display with the individual value of each roll under them
--players *Note this is an array , player objects can be added an removed to your desire*
-  -discord
-    -The discord ID of the player (Information on how to find this is [here](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
-  -rollName
-    -The name of the roll20 ***character*** bound to this player (note: ***character***, not acount)
+* roll20
+  - email
+    - Change this field to be the email tied to a roll 20 acount with gm acces to the campaign
+  - password
+    - Password coresponding to the aformentioned email
+* game
+  - apiLink
+    - The URL of the api menu for your campaign
+  - campaignHome
+    - The URL to the campaign menu (note this is not in use as of now)
+ * discord
+   - token
+     - Your discord bots token (found in part 1)
+   - channel
+     - The name of the discord channel you want to be the bridge
+* settings
+  - printFullRoll
+    - Either "yes" or "no", if yes rolls will display with the individual value of each roll under them
+* players *Note this is an array , player objects can be added an removed to your desire*
+  - discord
+    - The discord ID of the player (Information on how to find this is [here](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+  - rollName
+    - The name of the roll20 ***character*** bound to this player (note: ***character***, not acount)
 
 ### Part 3 Roll 20 API
 In this final section we will add the API to your campaign
