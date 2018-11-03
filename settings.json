@@ -1,0 +1,23 @@
+{
+  "roll20":{
+    "email":"youracount@email.com",
+    "password":"password"
+  },
+  "game":{
+    "apiLink":"link to the api page of your campaign",
+    "campaignHome":"menu link of campaign (not currently used)"
+  },
+  "discord":{
+    "token":"token of your discord bot",
+    "channel":"name of desired discord channel"
+  },
+  "settings":{
+    "printFullRoll":"yes"
+  },
+  "players":[
+    {"discord":"ID",
+      "rollName":"Roll 20 Character name"},
+    {"discord":"ID",
+      "rollName":"Roll 20 Character name"}
+  ]
+}
