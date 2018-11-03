@@ -13,7 +13,7 @@ This program ***requires*** the ability to add an api to your campaign
 3. Select the bot tab on the left and add a bot user
   -remember to name your bot and give it a profile if you would like
 4. While in the bot menu copy your token and put it in a text file for safe keeping we will use it in part 2
-  -**YOUR TOKEN IS BASICALY THE BOTS LOGIN INFO DO NOT SHARE IT**
+   - **YOUR TOKEN IS BASICALY THE BOTS LOGIN INFO DO NOT SHARE IT**
 5. Switch back to the general information tab and copy the CLIENT ID
 6. Finaly go to this url https://discordapp.com/oauth2/authorize?client_id=CLIENTID&scope=bot replacing CLIENTID with your ID and add the bot to your desired server
 
