@@ -53,3 +53,6 @@ In this final section we will add the API to your campaign
 4. Copy and paste the contents of API.js into the new API you created
 5. Select save
 
+## Run instructions
+1. Run ```run.bat``` and it should start up on its own
+2. When you want to close it go to the command shell and enter control c (^c)
