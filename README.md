@@ -32,9 +32,9 @@ This section will deal with how to fill out the settings.JSON file once you have
     - The URL to the campaign menu (note this is not in use as of now)
  * discord
    - token
-     - Your discord bots token (found in part 1)
+     - Your discord bot's token (found in part 1)
    - channel
-     - The name of the discord channel you want to be the bridge
+     - The name of the discord channel you want to be the bridge *(Note: do ***NOT*** include the leading hashtag)*
 * settings
   - printFullRoll
     - Either "yes" or "no", if yes rolls will display with the individual value of each roll under them
@@ -47,7 +47,7 @@ This section will deal with how to fill out the settings.JSON file once you have
 ### Part 3 Roll 20 API
 In this final section we will add the API to your campaign
 
-1. Go to the game menu of your gampain
+1. Go to the game menu of your campagin
 2. Click the gear and navigate to the API menu
 3. Select create API
 4. Copy and paste the contents of API.js into the new API you created
