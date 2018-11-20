@@ -34,7 +34,7 @@ This section will deal with how to fill out the settings.JSON file once you have
    - token
      - Your discord bot's token (found in part 1)
    - channel
-     - The name of the discord channel you want to be the bridge *(Note: do ***NOT*** include the leading hashtag)*
+     - The name of the discord channel you want to be the bridge *(Note: do ***NOT*** include the leading hashtag, another note this is currently not functional just name the channel "bridge")*
 * settings
   - printFullRoll
     - Either "yes" or "no", if yes rolls will display with the individual value of each roll under them
