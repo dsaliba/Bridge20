@@ -3,6 +3,11 @@ A roll20 discord bridge program
 This project has been shelved potentialy indefinatley due to lack of intrest. While the current version should still be functional for a while, it will likley not be reciving any updates or patches moving forward
 This program ***requires*** the ability to add an api to your campaign
 
+Bridge 20 preforms the following tasks
+1. Sends messages from roll20 chat to a discord text channel (in a format designed to make chats compact while preserving information like the roll20 character name, however, inline rolls may display incorrect values)
+2. Sends rolls from roll 20 to a discord text channel as an embed
+3. Listens for player whispers in roll20 and dms the receiving player's discord with the message
+
 ## Instalation Guide
 
 ### Part 1 Discord bot
