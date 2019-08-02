@@ -1,5 +1,6 @@
-# Bridge20
+# Bridge20 (DEPRECATED)
 A roll20 discord bridge program
+This project has been shelved potentialy indefinatley due to lack of intrest. While the current version should still be functional for a while, it will likley not be reciving any updates or patches moving forward
 This program ***requires*** the ability to add an api to your campaign
 
 ## Instalation Guide
